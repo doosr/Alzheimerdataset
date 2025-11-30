@@ -1,5 +1,4 @@
 # Dataset - trop volumineux pour GitHub
-AlzheimerDataset/
 
 # Modèles entraînés - trop volumineux
 AlzheimerModel/models/*.h5
