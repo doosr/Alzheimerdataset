@@ -1,0 +1,35 @@
+# Dataset - trop volumineux pour GitHub
+AlzheimerDataset/
+
+# Modèles entraînés - trop volumineux
+AlzheimerModel/models/*.h5
+AlzheimerModel/models/*.json
+
+# Logs et graphiques
+AlzheimerModel/logs/
+AlzheimerModel/graphs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
